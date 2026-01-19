@@ -73,4 +73,4 @@ streamlit run app.y
 
 ---
 ## 7) Link for a quick demo
-![Demo](https://eyyt8yzp5pp4wfj9tuesqq.streamlit.app/)
+(https://eyyt8yzp5pp4wfj9tuesqq.streamlit.app/)
